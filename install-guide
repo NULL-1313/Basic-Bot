@@ -10,11 +10,5 @@ DEPENDENCIES INSTALLATION (LINUX ONLY)
 All Distros
 pip install discord.py
 
-Arch / Manjaro / Archo
-sudo pacman -S sqlite
-sudo pacman -S sqlitebrowsersq
 
-Ubuntu / Debian
-sudo apt-get install sqlite3
-sudo apt-get install sqlitebrowser
 
